@@ -1,0 +1,25 @@
+Stage 1.2 Stability Boundary
+
+Source:
+cosmology/sudat_stability_boundary.py
+
+Parameters:
+m = 1
+lambda = 1
+beta = 1
+
+Result:
+
+Unhealthy:
+V0 < 225
+
+Healthy:
+V0 >= 225
+
+Key finding:
+A numerical stability boundary separates
+positive-energy and pathological cosmologies.
+
+Implication:
+Vacuum energy acts as a stability-control
+parameter in SUDAT.

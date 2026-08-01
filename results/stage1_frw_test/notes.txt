@@ -1,0 +1,22 @@
+Stage 1.1 FRW Solver
+
+Source:
+cosmology/sudat_frw_solver.py
+
+Result:
+Field evolution stable.
+
+Observations:
+- Scalar field evolved dynamically.
+- Expansion history changed significantly.
+- rho_phi crossed through zero.
+- Negative rho_phi regions appeared.
+- EOS singularities appeared.
+
+Problems:
+- Cosmological viability not guaranteed.
+- Physical parameter region not yet identified.
+
+Conclusion:
+Successful diagnostic test.
+Need viability scan to locate healthy cosmological solutions.

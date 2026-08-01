@@ -1,0 +1,20 @@
+Stage 2 — Modular Background Solver (background_v2)
+
+Purpose:
+First modular implementation using equations.py and integrator.py.
+
+Result:
+Successfully reproduced the stable-background behaviour obtained during the exploratory analysis.
+
+Key outputs:
+
+phi(today) = 1.5011245811409337
+
+rho_phi(today) = 226.75516154594442
+
+w(today) = -0.9996907518021102
+
+H(today) = 15.068349662320172
+
+Conclusion:
+The modular implementation reproduces the original healthy-universe solution while separating the physics from the numerical integrator.

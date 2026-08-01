@@ -1,0 +1,89 @@
+========================================
+SUDAT EFFECTIVE THEORY v1.0
+========================================
+
+STATUS
+
+Frozen
+
+----------------------------------------
+
+FOUNDATIONS
+
+✔ Density-induced symmetry breaking
+
+✔ Environment-dependent vacuum
+
+✔ Critical density
+
+✔ Broken minima
+
+✔ Stable vacuum
+
+----------------------------------------
+
+COSMOLOGY
+
+✔ Matter branch
+
+✔ Dark-energy branch
+
+✔ Stable evolution
+
+✔ Healthy parameter region
+
+✔ Matter domination
+
+✔ Scalar domination
+
+----------------------------------------
+
+NUMERICAL
+
+✔ Modular framework complete
+
+✔ Independent validation complete
+
+✔ Diagnostics complete
+
+----------------------------------------
+
+OBSERVATIONS
+
+Expansion history
+
+Current implementation differs strongly from ΛCDM.
+
+Matter power spectrum
+
+Not implemented.
+
+CMB
+
+Not implemented.
+
+BAO
+
+Not implemented.
+
+CLASS
+
+Not implemented.
+
+CAMB
+
+Not implemented.
+
+----------------------------------------
+
+BIGGEST OPEN QUESTION
+
+Can the current SUDAT postulates naturally produce
+modified cosmological dynamics while preserving the
+validated symmetry-breaking mechanism?
+
+----------------------------------------
+
+DO NOT MODIFY VERSION 1.
+
+Future work must justify any replacement.

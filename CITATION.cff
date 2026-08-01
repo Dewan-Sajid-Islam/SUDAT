@@ -1,0 +1,43 @@
+# CITATION.cff for SUDAT (Scalar Unified Dark Adaptive Theory)
+# This file provides citation metadata for the software repository.
+
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata provided below. We also encourage citing the accompanying manuscript when it becomes available."
+title: "SUDAT: Scalar Unified Dark Adaptive Theory — Effective Theory v1.0.0"
+version: 1.0.0
+date-released: 2026-08-02
+doi: "TBD"
+url: "https://github.com/Dewan-Sajid-Islam/SUDAT.git"
+repository-code: "https://github.com/Dewan-Sajid-Islam/SUDAT.git"
+
+authors:
+  - family-names: "Dewan"
+    given-names: "Sajid Islam"
+    email: "johnnykitty06@gmail.com"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0008-8784-8480"
+
+keywords:
+  - cosmology
+  - dark energy
+  - scalar field
+  - effective theory
+  - density-dependent vacuum
+  - symmetry breaking
+  - computational cosmology
+  - Python
+
+license: "Apache-2.0"
+
+preferred-citation:
+  type: "article"
+  authors:
+    - family-names: "Dewan"
+      given-names: "Sajid Islam"
+  title: "Scalar Unified Dark Adaptive Theory: An Effective Cosmological Implementation"
+  year: 2026
+  journal: "TBD"
+  volume: "XX"
+  issue: "YY"
+  pages: "ZZZ"
+  doi: "TBD"

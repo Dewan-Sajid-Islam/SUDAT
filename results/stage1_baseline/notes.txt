@@ -1,0 +1,23 @@
+Stage 1.0 Baseline Solver
+
+Source:
+theory/sudat_background_solver.py
+
+Result:
+Field evolution stable.
+
+Observations:
+- phi evolved smoothly.
+- rho_phi remained positive.
+- No numerical instabilities.
+- No EOS singularities.
+
+Limitations:
+- Vacuum energy V_lambda dominated the dynamics.
+- H(z) remained nearly constant.
+- Field effectively frozen.
+- Not yet a realistic cosmological model.
+
+Conclusion:
+Successful numerical stability test.
+Useful as baseline reference.

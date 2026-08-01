@@ -1,0 +1,9 @@
+SUDAT stable solutions exhibit
+strong vacuum domination.
+
+Maximum deviation from LCDM:
+93.27%
+
+Conclusion:
+Current healthy branch is not yet
+observationally realistic.

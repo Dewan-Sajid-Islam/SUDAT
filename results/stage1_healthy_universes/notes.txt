@@ -1,0 +1,42 @@
+Stage 1.3 Healthy Universe Comparison
+
+Source:
+cosmology/sudat_healthy_universe.py
+
+Models tested:
+
+V0 = 225
+V0 = 500
+V0 = 1500
+
+Results:
+
+All models remained stable.
+
+All models produced:
+
+- Positive scalar density
+- Finite expansion history
+- Dark-energy-like present-day EOS
+
+Present-day EOS:
+
+V0=225:
+w = -0.999691
+
+V0=500:
+w = -0.999995
+
+V0=1500:
+w = -1.000000
+
+Key finding:
+
+Larger vacuum energies drive the model
+toward an increasingly Lambda-like state.
+
+Implication:
+
+The healthy region is not chaotic.
+It forms a continuous family of stable
+dark-energy solutions.

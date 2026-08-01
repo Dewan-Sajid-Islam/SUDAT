@@ -1,0 +1,14 @@
+Stage 5 — Energy Budget Diagnosis
+
+Purpose:
+Determine whether the expansion-history discrepancy is caused by premature scalar-field domination.
+
+Results:
+- Matter dominates (~96.9%) at z = 8.
+- Scalar field dominates (~99.9%) today.
+- Smooth transition between the two sectors.
+- H varies only from ~14.08 to ~15.07 across z = 8 → 0.
+
+Conclusion:
+The poor agreement with ΛCDM is not caused by incorrect matter/scalar fractions.
+The discrepancy likely originates from the current background evolution equations rather than the energy-budget transition itself.

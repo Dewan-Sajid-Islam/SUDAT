@@ -1,0 +1,14 @@
+Stage 4 — Expansion History Validation
+
+Purpose:
+Validate the modular cosmology framework against a standard flat ΛCDM expansion history.
+
+Outputs:
+- expansion_validation.png
+- expansion_difference.png
+
+Goal:
+Confirm that the modular framework reproduces the same expansion behavior previously obtained during the exploratory phase.
+
+Interpretation:
+This stage validates software consistency. Agreement or disagreement with ΛCDM reflects the current SUDAT model itself, not differences introduced by the refactoring.
